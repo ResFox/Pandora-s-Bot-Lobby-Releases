@@ -1,0 +1,4 @@
+# We don't need anything here - this is just for releases
+node_modules/
+*.exe
+

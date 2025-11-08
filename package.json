@@ -1,0 +1,14 @@
+{
+  "name": "pandoras-bot-lobby",
+  "productName": "Pandora's Bot Lobby",
+  "version": "1.0.0",
+  "description": "Professional Xbox Cloud Gaming Multi-Account Manager",
+  "author": "6Truc Services",
+  "license": "Commercial",
+  "homepage": "https://github.com/ResFox/Pandora-s-Bot-Lobby-Releases",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ResFox/Pandora-s-Bot-Lobby-Releases.git"
+  }
+}
+

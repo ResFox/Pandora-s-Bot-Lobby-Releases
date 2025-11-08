@@ -1,0 +1,28 @@
+COMMERCIAL LICENSE AGREEMENT
+
+Copyright (c) 2025 6Truc Services
+
+This software is licensed, not sold. By using this software, you agree to the following terms:
+
+1. LICENSE GRANT
+   You are granted a non-exclusive, non-transferable license to use this software
+   only if you have purchased a valid license key.
+
+2. RESTRICTIONS
+   - You may NOT redistribute, resell, or share your license key
+   - You may NOT reverse engineer, decompile, or disassemble the software
+   - You may NOT use the software for illegal activities
+   - You may NOT use the software to violate Xbox/Microsoft Terms of Service
+
+3. NO WARRANTY
+   This software is provided "AS IS" without warranty of any kind.
+   We are not responsible for any bans, suspensions, or account issues.
+
+4. SUPPORT
+   Support is provided through our Discord server only.
+
+5. TERMINATION
+   Your license may be terminated if you violate these terms.
+
+For questions, contact us on Discord: https://discord.gg/Eh3qTsYgz9
+
